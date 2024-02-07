@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP Opdrachten</title>
+    <title>PHP</title>
 </head>
 <body>
 <?php
